@@ -14,9 +14,9 @@
 
 ### 🔭 Right now
 
-- **RSM Indonesia**, Tech Consultant intern (Data, AI & Emerging Tech). Building an AI-assisted document verification module: OCR plus LLM extraction, with user testing and stakeholder interviews along the way.
-- **TechFusion**, Project Leader. Running hackathons, tech programs and the teams behind them.
-- **Apple Developer Academy Alumni**, Program Manager. Our events average 200+ sign-ups.
+- **RSM Indonesia**, Tech Consultant intern (Data, AI & Emerging Tech). I yap, build system, and create powerpoint slides.
+- **TechFusion**, Project Leader. Running hackathons, tech programs, social medias and the teams behind them.
+- **Apple Developer Academy Graduate**.
 
 ### 🚀 Things I've shipped
 
