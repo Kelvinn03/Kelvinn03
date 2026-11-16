@@ -37,7 +37,7 @@ Case studies, and the decisions behind them, are on [my portfolio](https://kelvi
 
 ### 🎮 Off the clock
 
-Stargazing, Sunset hunting Badminton, Games. I ran my first 5K in 2025 and I'm still deciding whether that was a good idea.
+Stargazing, Sunset hunting, Badminton, Games. I ran my first 5K in 2025 and I'm still deciding whether that was a good idea.
 
 ---
 
